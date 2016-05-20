@@ -3,11 +3,11 @@
  ========================================================================== */
 @font-face {
   font-family: 'Campton Bold';
-  src: url('../fonts/campton/Campton-BoldDEMO.otf');
+  src: url('../fonts/Campton-BoldDEMO.otf');
 }
 @font-face {
   font-family: 'Campton Light';
-  src: url('../fonts/campton/Campton-LightDEMO.otf');
+  src: url('../fonts/Campton-LightDEMO.otf');
 }
 html {
     font-family: 'Open Sans', sans-serif;
