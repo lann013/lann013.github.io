@@ -414,7 +414,7 @@ header .overlay {
   left: 0;
   height: 100%;
   width: 100%;
-  background: url(../img/slider-overlay.png) repeat;
+  background: url('https://raw.githubusercontent.com/choyan/KreFolio/master/img/slider-overlay.png') repeat;
 }
 header .carousel,
 header .item,
@@ -474,7 +474,7 @@ header .logo-container {
 /* INFO VDW */
 
 .info-vdw {
-  background: url("file:///Users/lnt/Dropbox/images/bg-info-vdw.jpg") no-repeat center fixed;
+  background: url("/images/bg-info-vdw.jpg") no-repeat center fixed;
   background-size: cover;
   position: relative;
 }
@@ -547,11 +547,11 @@ header .logo-container {
   transition: background .5s;
 }
 .banner .banner-left {
-  background: url("file:///Users/lnt/Dropbox/images/banner-links.jpeg") no-repeat;
+  background: url("/images/banner-links.jpeg") no-repeat;
   background-size: cover;
 }
 .banner .banner-right {
-  background: url("file:///Users/lnt/Dropbox/images/banner-rechts.jpeg") no-repeat;
+  background: url("/images/banner-rechts.jpeg") no-repeat;
   background-size: cover;
 }
 .banner .overlay:hover {
