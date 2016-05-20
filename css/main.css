@@ -256,8 +256,8 @@ h6 {
   position: fixed;
   width: 100%;
   height: 100%;
-  background: #0c38ed;
-  opacity: 0.9;
+  background: #000;
+  opacity: 0.85;
   text-transform: uppercase;
 }
 .mobilenav li {
